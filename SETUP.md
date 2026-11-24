@@ -34,7 +34,7 @@ Then refresh https://github.com/MohammedQuraan24 (Ctrl+F5 if it looks cached).
 ## 4. Make it yours
 
 - 📧 Your email (`mohammadhjdke@gmail.com`) is in the contact section.
-- 💼 LinkedIn badge points to `https://www.linkedin.com/in/mohammad-quraan/` — if your real URL has extra characters, replace it in `README.md`.
+- 💼 LinkedIn badge points to your real profile: `https://www.linkedin.com/in/mohammad-quraan-670b9a287/`.
 - 🧩 Add more skill icons from <https://skillicons.dev> by extending the `i=` list.
 - 🎨 The neon colors are `#00f5ff`, `#ff2bd6`, `#8b5cf6` in `assets/banner.svg` and the stats card URLs.
 - 👤 If your username changes, replace every `MohammedQuraan24` in `README.md`.
