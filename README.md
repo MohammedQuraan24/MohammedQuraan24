@@ -3,6 +3,7 @@
 <img src="./assets/banner.svg" alt="Mohammed Quraan — developer banner" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohammedQuraan24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedQuraan24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Quraan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-quraan/)
 [![Email](https://img.shields.io/badge/Email-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhjdke@gmail.com)
 
 </div>
@@ -46,6 +47,7 @@ I'm a developer learning and building with **C**, **C++**, **Java**, **Python**,
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedQuraan24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-quraan/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhjdke@gmail.com)
 
 📧 **[mohammadhjdke@gmail.com](mailto:mohammadhjdke@gmail.com)**
